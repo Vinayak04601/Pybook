@@ -12,14 +12,13 @@ I have developed an entirely automatic desktop application for personal audio bo
 
 Features:-
 
-1. The user should be allow to upload any book of his choice(local) in pdf format.
+1. The user can upload any book of his choice(local) in pdf format.
 
 2. After uploading if the user will click to the on/submit button it will convert the pdf text to
 speech.
 
-3. User also should have an option pause and play buttons.
+3. The user can also have an option of pause and play buttons.
 
-4. You can more features as per your convenience.
 
 Libraries:-
 
