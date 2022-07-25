@@ -77,9 +77,9 @@ song_box = Listbox(root, bg="black", fg='white', width= 60)
 song_box.pack(pady=20)
 
 
-play_btn_img = PhotoImage(file='play50.png')
-pause_btn_img = PhotoImage(file='pause50.png')
-stop_btn_img = PhotoImage(file='stop50.png')
+play_btn_img = PhotoImage(file='Audio Button Images/play50.png')
+pause_btn_img = PhotoImage(file='Audio Button Images/pause50.png')
+stop_btn_img = PhotoImage(file='Audio Button Images/stop50.png')
 
 
 control_frame =Frame(root)
