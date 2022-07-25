@@ -1,13 +1,14 @@
+                                                        Personal Audio book Desktop App
 
 
 
-![images](https://user-images.githubusercontent.com/68140840/180727585-d7028799-83a8-44b2-a6b8-34c6864b94ee.jpeg)
+   ![images](https://user-images.githubusercontent.com/68140840/180727585-d7028799-83a8-44b2-a6b8-34c6864b94ee.jpeg)
 
 
 
 
 
-I developed an entirely automatic desktop application for personal audio book systems.
+I have developed an entirely automatic desktop application for personal audio book systems.
 
 Features:-
 
