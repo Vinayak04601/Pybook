@@ -1,31 +1,25 @@
-                                            Personal Audio book Desktop App
 
-
-
-   ![images](https://user-images.githubusercontent.com/68140840/180727585-d7028799-83a8-44b2-a6b8-34c6864b94ee.jpeg)
-
-
-
-
+# Personal Audio Book 
 
 I have developed an entirely automatic desktop application for personal audio book systems.
-
-Features:-
-
-1. The user can upload any book of his choice(local) in pdf format.
-
-2. After uploading if the user will click to the on/submit button it will convert the pdf text to
-speech.
-
-3. The user can also have an option of pause and play buttons.
+![Logo](https://www.clipartmax.com/png/full/63-633117_windows-computer-icon-with-text-to-speech-speech-synthesis.png)
 
 
-Libraries:-
+## Features
 
-1. tkinter = The tkinter package is the standard Python interface to the Tcl/Tk GUI toolkit.
+- The user can upload any book of his choice(local) in pdf format.
 
-2. PyPDF2  = PyPDF2 is a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. 
+- After uploading if the user will click to the on/submit button it will convert the pdf text to speech.
 
-3. pyttsx3 = pyttsx3 is a text-to-speech conversion library in Python.
+- The user can also have an option of pause and play buttons.
 
-4. pygame  = Pygame is a set of Python modules designed for writing video games.
+
+## Libraries Used
+
+**tkinter** = The tkinter package is the standard Python interface to the Tcl/Tk GUI toolkit.
+
+**PyPDF2** = PyPDF2 is a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
+
+**pyttsx3** = pyttsx3 is a text-to-speech conversion library in Python.
+
+**pygame** = Pygame is a set of Python modules designed for writing video games.
